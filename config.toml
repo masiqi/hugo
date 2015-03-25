@@ -7,10 +7,12 @@ title = "马思奇的博客"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  series = "series"
 
 [params]
   description = "马思奇的博客"
-  author = "Masiqi"
+  author = "Ma siqi"
+  disqusShortname = "masiqi"
 
 [blackfriday]
   angledQuotes = true
@@ -25,3 +27,5 @@ title = "马思奇的博客"
   weight = -110
   identifier = "about"
   url = "/about/"
+
+
