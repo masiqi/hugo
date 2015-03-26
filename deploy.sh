@@ -3,6 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project. 
+rm -rf public/*
 hugo -t liquorice # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder

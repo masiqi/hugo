@@ -2,7 +2,7 @@ baseurl = "http://masiqi.github.io"
 languageCode = "zh-cn"
 title = "马思奇的博客"
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/:year/:month/:slug/"
 
 [taxonomies]
   category = "categories"
