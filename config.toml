@@ -1,4 +1,4 @@
-baseurl = "http://masiqi.github.io/"
+baseurl = "http://masiqi.github.io"
 languageCode = "zh-cn"
 title = "马思奇的博客"
 [permalinks]
@@ -12,6 +12,7 @@ title = "马思奇的博客"
 [params]
   description = "马思奇的博客"
   author = "Ma siqi"
+  gaCode = "UA-61199866-1"
   disqusShortname = "masiqi"
 
 [blackfriday]
